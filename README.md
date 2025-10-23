@@ -8,6 +8,7 @@ Este repositório contém modelos genéricos de Política de Privacidade para ap
 - **[PRIVACY_POLICY.md](PRIVACY_POLICY.md)** - English Version - Markdown
 - **[privacy-policy.html](privacy-policy.html)** - Versão HTML (pronta para publicação web)
 - **[GUIA_RAPIDO.md](GUIA_RAPIDO.md)** - Guia rápido de personalização e checklist
+- **[CHECKLIST.md](CHECKLIST.md)** - Checklist detalhado para personalização completa
 
 ## 🎯 Objetivo
 
@@ -18,6 +19,8 @@ Fornecer um modelo completo e genérico de Política de Privacidade que atenda a
 - **COPPA** (Children's Online Privacy Protection Act - EUA)
 
 ## 📋 Como Usar
+
+### 🚀 Início Rápido (5 minutos)
 
 1. **Escolha o documento** no idioma apropriado
 2. **Copie o conteúdo** para seu projeto ou site
@@ -33,6 +36,15 @@ Fornecer um modelo completo e genérico de Política de Privacidade que atenda a
    - Atualize os serviços de terceiros utilizados
 5. **Publique** a política em um local acessível (site ou dentro do aplicativo)
 6. **Link no Google Play**: Adicione o link da política na página do seu aplicativo na Play Store
+
+### 🎯 Personalização Completa (30-60 minutos)
+
+1. **Preencha o [CHECKLIST.md](CHECKLIST.md)** com todas as informações do seu app
+2. **Use o [GUIA_RAPIDO.md](GUIA_RAPIDO.md)** para ver exemplos práticos
+3. **Personalize a política** baseado nas suas respostas do checklist
+4. **Revise** com sua equipe e/ou advogado
+5. **Publique** usando a versão HTML ou hospede o Markdown
+6. **Configure** atualizações periódicas
 
 ## ⚠️ Avisos Importantes
 
