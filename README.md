@@ -4,8 +4,10 @@ Este repositório contém modelos genéricos de Política de Privacidade para ap
 
 ## 📄 Documentos Disponíveis
 
-- **[POLITICA_DE_PRIVACIDADE.md](POLITICA_DE_PRIVACIDADE.md)** - Versão em Português (Brasil)
-- **[PRIVACY_POLICY.md](PRIVACY_POLICY.md)** - English Version
+- **[POLITICA_DE_PRIVACIDADE.md](POLITICA_DE_PRIVACIDADE.md)** - Versão em Português (Brasil) - Markdown
+- **[PRIVACY_POLICY.md](PRIVACY_POLICY.md)** - English Version - Markdown
+- **[privacy-policy.html](privacy-policy.html)** - Versão HTML (pronta para publicação web)
+- **[GUIA_RAPIDO.md](GUIA_RAPIDO.md)** - Guia rápido de personalização e checklist
 
 ## 🎯 Objetivo
 
@@ -73,10 +75,24 @@ A Google Play Store exige que todos os aplicativos tenham uma política de priva
 
 Você pode publicar sua política de privacidade:
 
+### Opção 1: Arquivo HTML (Recomendado para iniciantes)
+- Use o arquivo `privacy-policy.html` fornecido
+- Faça upload para qualquer serviço de hospedagem web
+- O arquivo já está formatado e pronto para uso
+
+### Opção 2: GitHub Pages (Gratuito)
+1. Fork este repositório
+2. Vá em Settings > Pages
+3. Ative o GitHub Pages
+4. Sua política estará em: `https://seu-usuario.github.io/Politica-de-Privacidade/privacy-policy.html`
+
+### Opção 3: Outros Serviços
 - No seu próprio site
-- Em plataformas de hospedagem gratuita (GitHub Pages, Google Sites, etc.)
+- Google Sites
+- Netlify / Vercel
+- Firebase Hosting
 - Dentro do próprio aplicativo
-- Em serviços especializados de hospedagem de políticas
+- Serviços especializados de hospedagem de políticas
 
 ## 📝 Licença
 
